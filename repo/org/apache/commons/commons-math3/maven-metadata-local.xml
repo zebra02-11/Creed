@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.commons</groupId>
+  <artifactId>commons-math3</artifactId>
+  <versioning>
+    <versions>
+      <version>3.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140409063924</lastUpdated>
+  </versioning>
+</metadata>
